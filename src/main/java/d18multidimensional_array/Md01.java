@@ -61,9 +61,12 @@ public class Md01 {
                 if(k.contains("m")){
                     System.out.println(k);  // kemal
                                            // Cemal
+
                 }
             }
         }
+        // versiyon 1
+        System.out.println("degisiklik");
 
 
 

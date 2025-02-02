@@ -71,6 +71,9 @@ public class Md01 {
         // versiyon 2
         System.out.println("degisiklik");
 
+        // versiyon 3
+        System.out.println("degisiklik");
+
 
 
 
